@@ -1,9 +1,9 @@
 import requests
 import json
 
-API_ACCESS_KEY='AIzaSyAavPj-wjgeAGBl6QTcJyremlCTeEtxG0c'
+API_ACCESS_KEY='YOUR_API_ACCESS_KEY'
 
-registrationIds=['cV0Z7xnjG4g:APA91bEZhqZyPNjIK_xtb-3d169pHYfdIGgoTxAyC7F34pkWkoe4RSTZqY07PAMmJbL6ZhalFrFZOjSSQPV7-0o1iZsKA5mEio2ptEmomnmjUJ33mtseg2yYBOtNA-JsKeovwfHugLn6']
+registrationIds=['DEVICE_REGISTRATION_ID']
 
 url = 'https://android.googleapis.com/gcm/send'
 
