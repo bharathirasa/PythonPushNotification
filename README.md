@@ -4,6 +4,8 @@ By using this code, you can create your own automated push notification Python s
 
 Before using this python code, you must install the requests library by using
 
+```
 pip install requests
+```
 
 The code is tested with Python 3.5 version
